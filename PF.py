@@ -50,7 +50,7 @@ class VirtualMachine:
                         self.output += f"\n"
                 elif cmd == "MAKE":
                     reg, val = args
-                    self.registers[reg] = self.registers[reg]
+                    self.registers[reg] = val
                 elif cmd == "DEL":
                     reg = args[0]
                     del(self.registers[reg])
