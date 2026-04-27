@@ -58,9 +58,9 @@ PASTE R4 420
 PASTE R5 520
 REG __REGS__
 ```
-3. Запустите код и наслаждайтесь!
-![Кот тапает в клаву](letsgo.jpg)
-Ссылки ;):
-Мой веб-сайт: [Веб-Сайт](https://gemnibro-ux.github.io "Мой сайт ку-кушарик")
-Мой YouTube: [YouTube](https://www.youtube.com/channel/UCy8o6X8bEyYThhQokJyjgoA "YouTube")
+3. Запустите код и наслаждайтесь!<br>
+![Кот тапает в клаву](letsgo.jpg)<br>
+Ссылки ;):<br>
+Мой веб-сайт: [Веб-Сайт](https://gemnibro-ux.github.io "Мой сайт ку-кушарик")<br>
+Мой YouTube: [YouTube](https://www.youtube.com/channel/UCy8o6X8bEyYThhQokJyjgoA "YouTube")<br>
 
