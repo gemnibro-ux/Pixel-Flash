@@ -60,8 +60,8 @@ PASTE R4 420
 PASTE R5 520
 REG __REGS__
 ```
-3. Запустите код и наслаждайтесь!<br>
-![Кот тапает в клаву](https://github.com/gemnibro-ux/Pixel-Flash/blob/main/letsgo.gif)<br>
+3. Запустите код и наслаждайтесь!<br><br><br>
+![Кот тапает в клаву](https://github.com/gemnibro-ux/Pixel-Flash/blob/main/letsgo.gif)<br><br><br>
 Ссылки ;):<br>
 Мой веб-сайт: [Веб-Сайт](https://gemnibro-ux.github.io "The site!")<br>
 Мой YouTube: [YouTube](https://www.youtube.com/channel/UCy8o6X8bEyYThhQokJyjgoA "YouTube")<br>
