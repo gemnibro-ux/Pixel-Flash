@@ -1,5 +1,7 @@
 # Pixel-Flash
 
+!["Иконка"](https://github.com/gemnibro-ux/Pixel-Flash/blob/main/icon.png)
+
 PF (Полн. Pixel Flash) — быстрый и лёгкий язык программирование. На нём можно писать код изменять регистры, очищать. Этот язык программирование подходит для энтузиастов, исследователям либо кем кто хочет просто посмотреть как работает код. Язык похож на ассемблер, но облегчен!
 
 ## Возможности
@@ -59,8 +61,8 @@ PASTE R5 520
 REG __REGS__
 ```
 3. Запустите код и наслаждайтесь!<br>
-![Кот тапает в клаву](letsgo.jpg)<br>
+![Кот тапает в клаву](https://github.com/gemnibro-ux/Pixel-Flash/blob/main/letsgo.gif)<br>
 Ссылки ;):<br>
-Мой веб-сайт: [Веб-Сайт](https://gemnibro-ux.github.io "Мой сайт ку-кушарик")<br>
+Мой веб-сайт: [Веб-Сайт](https://gemnibro-ux.github.io "The site!")<br>
 Мой YouTube: [YouTube](https://www.youtube.com/channel/UCy8o6X8bEyYThhQokJyjgoA "YouTube")<br>
 
